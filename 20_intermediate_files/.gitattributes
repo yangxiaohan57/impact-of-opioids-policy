@@ -1,0 +1,4 @@
+AZ_shipment_and_pop.csv filter=lfs diff=lfs merge=lfs -text
+FL_shipment_and_pop.csv filter=lfs diff=lfs merge=lfs -text
+NM_shipment_and_pop.csv filter=lfs diff=lfs merge=lfs -text
+PA_shipment_and_pop.csv filter=lfs diff=lfs merge=lfs -text
